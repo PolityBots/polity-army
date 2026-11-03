@@ -8,7 +8,7 @@ Served by GitHub Pages from this repository (branch `main`, folder `/`) at **htt
 |---|---|---|
 | DNS record | the Operator's DNS for advergentsolutions.io | `bots` CNAME `politybots.github.io` |
 | Custom domain file | `CNAME` in this repository | `bots.advergentsolutions.io` |
-| Pages setting | repository Settings > Pages | custom domain `bots.advergentsolutions.io`, HTTPS enforced |
+| Pages setting | repository Settings > Pages | custom domain `bots.advergentsolutions.io`; "Enforce HTTPS" must be ticked here (the Polity's token can't change it) |
 | Old address | https://politybots.github.io/polity-army/ | redirects to the custom domain |
 
 Don't delete or edit `CNAME`: GitHub Pages would stop answering for the domain.
